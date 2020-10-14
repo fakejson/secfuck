@@ -30,9 +30,11 @@ lovejson点评：给你白嫖出了问题不算自己的，男人有点担当行
 （欢迎大家补充更多细节，诚邀@Adam提交push request）
 
 ## Ctrip SRC
-![avatar](https://github.com/fakejson/secfuck/blob/e2ec7a2230b9666153814a5f2e8c251adbe95ebc/statics/2020-07/ctrip.png)  
+这个是朋友圈看到的，十分之傻叼。
 
-fakejson点评：感情你家客服还需要为安全和技术去要债啊？  
+![avatar](https://github.com/fakejson/secfuck/blob/master/statics/2020-07/ctrip.png?raw=true)  
+
+fakejson点评：感情你家客服还需要为安全和业务去要债啊？  
 fuckjson点评：傻逼SRC，听说一个高危越权漏洞几十块钱
 
 ## 傻逼众多，未来可期   
