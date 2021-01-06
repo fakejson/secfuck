@@ -87,13 +87,15 @@ fuckjson点评：傻逼SRC，那么多人都说他有问题 ，那就是携程�
 怎么发现的：
 
 1. https://github.com/lazybootsafe 没有任何开源代码
-2. http://evilxyz.xyz/index.php/7.html 友情链接质量低的不计，求证友链中的大佬（并未互换），大佬说了不认识此人
+2. http://evilxyz.xyz/index.php/7.html 友情链接质量低的不计。 求证友链中的师傅（并未互换），大佬说了不认识此人
 3. 作为硕士没有一篇公开论文实名发表
-4. https://hackerone.com/lazybootsafe H1并没有漏洞
-5. 咨询 360 的朋友，并未有认识他的
+4. https://hackerone.com/lazybootsafe H1没有漏洞
+5. 咨询 360、百度安全 的朋友，并未有认识他的
+6. 94年出生，13年上大学， 11年入职百度
 
 
-
-
+其他信息：
+| 类型 | QQ         | 名称                  | 网名                  | 备注名 | 群名片                | UIN        | 群内角色 |
+| 成员 | 229686485  | 南昌 L0CAL            | F                     |        | 南昌 L0CAL            | 2222723251 | 普通成员 |
 
 ## 傻逼众多，未来可期   
