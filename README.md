@@ -99,6 +99,8 @@ fuckjson点评：傻逼SRC，那么多人都说他有问题 ，那就是携程�
 | 成员 | 229686485  | 南昌 L0CAL            | F                     |        | 南昌 L0CAL            | 2222723251 | 普通成员 |
 
 2021.4.6更新：
+
 ![avatar](https://github.com/fakejson/secfuck/blob/master/statics/2020-07/zhq.png?raw=true) 
+
 这个装逼犯关闭博客了
 ## 傻逼众多，未来可期   
